@@ -1,0 +1,27 @@
+
+[
+        {
+            "id": 0,
+            "name": "Ski Villa",
+            "img": "https://img.for-system.com/grandes/push/OP/111244/Hebergement/14/OP_FD1256A52BB022C1D76429900D58083E.jpg",
+            "imdb":1
+        },
+        {
+            "id": 1,
+            "name": "Climbing Hill",
+            "img": "https://adventure-expertise.co.uk/wp-content/uploads/2018/08/Winter-climbing-seconding-ice-climbs-on-cascades-of-ice.jpg",
+            "imdb":2
+        },
+        {
+            "id": 2,
+            "name": "Frozen Hill",
+            "img": "https://vnn-imgs-f.vgcloud.vn/2020/07/27/09/img-5663.jpg",
+            "imdb":3
+        },
+        {
+            "id": 3,
+            "name": "Beach",
+            "img": "https://dulichtoivaban.com/wp-content/uploads/2020/11/Top-6-bai-bien-dep-nhat-Phu-Quoc-2020.jpg",
+            "imdb":4
+        }
+]
