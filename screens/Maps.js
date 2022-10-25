@@ -18,7 +18,7 @@ export default Maps = () =>{
                     console.log(data, details);
                 }}
                 query={{
-                    //key: 'AIzaSyBvCfw3e_IvpYxDgemLM9lDwyuslNFb86k',
+                    //key: 'AIzaSyBvCfw3e_IvpYxDgemLM9lDwyuslNFb86kHoanNghiem01',
                     language: 'vn',
                     components:"country:vn"
                 }}
